@@ -1,6 +1,6 @@
 # THIS IS NO LONGER BEING MAINTAINED, A REPLACEMENT IS BEING DEVELOPED BEHIND THE SCENES
 
-A best-effort reimplementation of the Minecraft Forge API.
+ A best-effort reimplementation of the Minecraft Forge API.
 
 ## Here be dragons
 Patchwork only runs a small amount of mods. It is not yet ready for general use--we are only looking for developers. Testers and users aren't needed or desired at this time.
